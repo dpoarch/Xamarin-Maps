@@ -1,0 +1,9 @@
+C:\Users\Gray\Desktop\Polygon\MapOverlay\bin\Debug\netstandard2.0\MapOverlay.deps.json
+C:\Users\Gray\Desktop\Polygon\MapOverlay\bin\Debug\netstandard2.0\MapOverlay.dll
+C:\Users\Gray\Desktop\Polygon\MapOverlay\bin\Debug\netstandard2.0\MapOverlay.pdb
+C:\Users\Gray\Desktop\Polygon\MapOverlay\obj\Debug\netstandard2.0\MapOverlay.csprojResolveAssemblyReference.cache
+C:\Users\Gray\Desktop\Polygon\MapOverlay\obj\Debug\netstandard2.0\MapOverlay.csproj.CoreCompileInputs.cache
+C:\Users\Gray\Desktop\Polygon\MapOverlay\obj\Debug\netstandard2.0\MapOverlay.AssemblyInfoInputs.cache
+C:\Users\Gray\Desktop\Polygon\MapOverlay\obj\Debug\netstandard2.0\MapOverlay.AssemblyInfo.cs
+C:\Users\Gray\Desktop\Polygon\MapOverlay\obj\Debug\netstandard2.0\MapOverlay.dll
+C:\Users\Gray\Desktop\Polygon\MapOverlay\obj\Debug\netstandard2.0\MapOverlay.pdb
